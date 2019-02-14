@@ -4,7 +4,7 @@ import './style/main.less';
 
 class Acceuil extends React.Component {
     render () {
-        return <h1 className="header">Bonjour react app </h1>;
+        return <h1 className="header">Bonjour react app avec un nouveau text </h1>;
     }
 }
 
